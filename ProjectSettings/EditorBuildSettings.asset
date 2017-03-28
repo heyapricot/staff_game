@@ -4,4 +4,10 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/scenes/00_splash.unity
+  - enabled: 1
+    path: Assets/scenes/01_start.unity
+  - enabled: 1
+    path: Assets/scenes/02_level_01.unity
