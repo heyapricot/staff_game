@@ -10,4 +10,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/scenes/01_start.unity
   - enabled: 1
+    path: Assets/scenes/01b_options.unity
+  - enabled: 1
     path: Assets/scenes/02_level_01.unity
+  - enabled: 1
+    path: Assets/scenes/03a_win.unity
+  - enabled: 1
+    path: Assets/scenes/03b_lose.unity

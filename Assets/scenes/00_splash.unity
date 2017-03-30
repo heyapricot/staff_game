@@ -554,6 +554,12 @@ MonoBehaviour:
   levelMusicChangeArray:
   - {fileID: 8300000, guid: 3c5e375a6ab7da246be8e4ca840350f4, type: 3}
   - {fileID: 8300000, guid: af4505a768578d44d8174ad5195a4383, type: 3}
+  - {fileID: 8300000, guid: af4505a768578d44d8174ad5195a4383, type: 3}
+  - {fileID: 8300000, guid: af4505a768578d44d8174ad5195a4383, type: 3}
+  - {fileID: 8300000, guid: af4505a768578d44d8174ad5195a4383, type: 3}
+  - {fileID: 8300000, guid: af4505a768578d44d8174ad5195a4383, type: 3}
+  - {fileID: 8300000, guid: af4505a768578d44d8174ad5195a4383, type: 3}
+  - {fileID: 8300000, guid: af4505a768578d44d8174ad5195a4383, type: 3}
 --- !u!4 &1485612634
 Transform:
   m_ObjectHideFlags: 0
