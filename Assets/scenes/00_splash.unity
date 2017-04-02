@@ -220,7 +220,7 @@ Prefab:
     - target: {fileID: 114058638560421640, guid: f795c6270c63a764e894bf079ee74739,
         type: 2}
       propertyPath: autoLoadNextLevelAfter
-      value: 3
+      value: 2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: f795c6270c63a764e894bf079ee74739, type: 2}
@@ -552,7 +552,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   levelMusicChangeArray:
-  - {fileID: 8300000, guid: 3c5e375a6ab7da246be8e4ca840350f4, type: 3}
+  - {fileID: 0}
   - {fileID: 8300000, guid: af4505a768578d44d8174ad5195a4383, type: 3}
   - {fileID: 8300000, guid: af4505a768578d44d8174ad5195a4383, type: 3}
   - {fileID: 8300000, guid: af4505a768578d44d8174ad5195a4383, type: 3}
